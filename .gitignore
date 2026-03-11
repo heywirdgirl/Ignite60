@@ -1,3 +1,22 @@
 # Godot 4+ specific ignores
 .godot/
 /android/
+/ios/
+/addons/        # Đã thêm: Ẩn tất cả các plugin/addons
+/export/
+/build/
+
+# File dịch thuật và file tạm
+*.translation
+*.icu
+*.zcomp
+*.pck
+*.xccheckout
+*.xcworkspace/
+
+# Mono/C# (Nếu có)
+.mono/
+bin/
+obj/
+*.csproj
+*.sln
