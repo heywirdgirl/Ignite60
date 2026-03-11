@@ -2,7 +2,6 @@
 .godot/
 /android/
 /ios/
-/addons/        # Đã thêm: Ẩn tất cả các plugin/addons
 /export/
 /build/
 
